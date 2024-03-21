@@ -1,7 +1,7 @@
 # NPI calculator Client App
 
 Client application par for NPI calculator. A calculator that use Reverse Polish Notation (RPN)  alogrithm to make calculations.
-Works with the NPI calculator API REST server []()
+Works with the  [NPI calculator API REST server](https://github.com/Nestuna/ayomi-npi-calculator-server)
 
 ## Requirement
 
